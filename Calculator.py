@@ -10,4 +10,4 @@ elif(op== '*'):
 elif(op== '/'):
   print("the division of", a, "and", b, "is", int(a) / int(b))
 else:
-  print("invalid operator!!!!")
+  print("invalid operator!!!")
